@@ -1,7 +1,5 @@
 # Mesto
 
-Проект фронтенд-приложения с публикацией через GitHub Pages.
-
 Ссылка на проект: https://dievavar.github.io/mesto-production/
 
 ---
